@@ -1,4 +1,5 @@
-# The Image classifier is a Graphical User Interface (GUI) for our Machine Learning project Image Cassifier.
+# Image Classifier
+  ### The Image classifier is a Graphical User Interface (GUI) for our Machine Learning project Image Cassifier.
   
   ### I am going to use the VGG16 pre-trained model available on Tensorflow to easily build a Image Classifier.
   
@@ -6,5 +7,3 @@
   
   * The link for the ImageNet dataset is http://www.image-net.org/
   * The link for the VGG16 – Convolutional Network for Classification and Detection is https://neurohive.io/en/popular-networks/vgg16/
-    
- 
